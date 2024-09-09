@@ -24,6 +24,6 @@ SUPOSICIONES Y DEPESNDENCIAS.</sup>
     El juego debe ser compatible con , incluidas Android 6 en adelante, y debe adaptarse a una variedad de tamaños de pantalla, desde teléfonos inteligentes hasta tabletas.
 
     GLOSARIO
-´1  
+
     APENDICES
     
