@@ -32,6 +32,7 @@ SUPOSICIONES Y DEPESNDENCIAS.</sup>
     Al iniciar el juego por primera vez el usuario tendra que registrarse con un correo personal o tambien lo podra hacer con algun correo institucional. 
 
     GLOSARIO
-
+1
+2
     APENDICES
     
