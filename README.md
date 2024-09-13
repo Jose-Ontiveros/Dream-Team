@@ -29,6 +29,10 @@ SUPOSICIONES Y DEPESNDENCIAS.</sup>
    El juego contará con sincronización automática de datos entre dispositivos. 
    
    El juego tiene la capacidad para conectarse con amigos y ver sus progresos en el mapa de niveles.
+
+   Al iniciar el juego por primera vez, el juego mostrará un tutorial interactivo para enseñar al jugador las acciones básicas a realizar.
+
+   A mitad de cada partida, el jugador podrá seleccionar de entre 5 "boosters" para variar el orden o acciones de los caramelos.
    
    **REQUERIMIENTOS NO FUNCIONALES**
     El juego debe ser compatible con , incluidas Android 6 en adelante, y debe adaptarse a una variedad de tamaños de pantalla, desde teléfonos inteligentes hasta tabletas.
@@ -42,6 +46,9 @@ SUPOSICIONES Y DEPESNDENCIAS.</sup>
     El juego cumplirá con la Ley de Federación de Protección de Datos Personales de los Particulares para Mérida, Yucatán.
 
     Se manejará el Estandar de Seguridad de Datos para la Industria de Tarjetas de Pago (PCI-DSS), para garantizar la seguridad de las transacciones con tarjetas de pago.
+
+    Al iniciar el juego por primera vez, el usuario deberá aceptar los Términos y Condiciones establecidos, así como la Política de Privacidad.
+
     
     GLOSARIO
 1
