@@ -28,7 +28,7 @@ SUPOSICIONES Y DEPESNDENCIAS.</sup>
    
    El juego contará con sincronización automática de datos entre dispositivos. 
    
-   El juego tiene la capacidad para conectarse con amigos y ver sus progreso en el mapa de niveles.
+   El juego tiene la capacidad para conectarse con amigos y ver sus progresos en el mapa de niveles.
    
    **REQUERIMIENTOS NO FUNCIONALES**
     El juego debe ser compatible con , incluidas Android 6 en adelante, y debe adaptarse a una variedad de tamaños de pantalla, desde teléfonos inteligentes hasta tabletas.
